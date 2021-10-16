@@ -19,7 +19,7 @@
 
 # Build for Production 
 
-  npm run build
+  <code>npm run build</code>
 
 # Demo
 
