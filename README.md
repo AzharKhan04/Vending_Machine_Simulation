@@ -13,15 +13,19 @@
 
     npm install
 
-# 2) Run
+# 3) Run
 
     npm run start
 
 # Build for Production 
 
-  To build for production
-
-  npm run build 
+  <code>npm run build</code>
 
 # Demo
 
+https://azharkhan04.github.io/Vending_Machine_Simulation/
+
+# App Screenshots
+
+  1) Medium, Small and Large Devices
+  2) Small and Extra Small Devices (Mobile Phones) 
