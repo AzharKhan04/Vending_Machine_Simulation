@@ -1,0 +1,26 @@
+body {
+    background-color: #24272c;
+    color: white;
+}
+
+.App {
+    text-align: center;
+}
+
+.bottom {
+    position: fixed;
+    box-shadow: rgba(9, 9, 14, 0.2) 0px 7px 29px 0px;
+    bottom: 0%;
+    text-align: center;
+    width: 100%;
+    background-color: #24272c;
+}
+
+.product_container {
+    color: goldenrod;
+}
+
+.product_selected {
+    border: 2px solid goldenrod;
+    border-radius: 4px;
+}
