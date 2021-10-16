@@ -13,13 +13,13 @@
 
     npm install
 
-# 2) Run
+# 3) Run
 
     npm run start
 
 # Build for Production 
 
-  npm run build 
+  npm run build
 
 # Demo
 
