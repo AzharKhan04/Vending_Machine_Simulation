@@ -25,5 +25,7 @@
 
 https://azharkhan04.github.io/Vending_Machine_Simulation/
 
+# App Screenshots
 
-<img src="https://github.com/AzharKhan04/Vending_Machine_Simulation/blob/master/public/logo192.png"/>
+  1) Medium, Small and Large Devices
+  2) Small and Extra Small Devices (Mobile Phones) 
