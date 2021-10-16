@@ -29,9 +29,11 @@ https://azharkhan04.github.io/Vending_Machine_Simulation/
 
   1) Medium, Small and Large Devices
   
-     <img src= "https://github.com/AzharKhan04/Vending_Machine_Simulation/blob/master/public/Extras/Screenshots/vending_machine_home.png"/>
+     <img width={'200'} src= "https://github.com/AzharKhan04/Vending_Machine_Simulation/blob/master/public/Extras/Screenshots/vending_machine_home.png"/>
 
-     <img src= "https://github.com/AzharKhan04/Vending_Machine_Simulation/blob/master/public/Extras/Screenshots/vending_machine_modal.png"/>
+     <br/>
+
+     <img  width={'200'} src= "https://github.com/AzharKhan04/Vending_Machine_Simulation/blob/master/public/Extras/Screenshots/vending_machine_modal.png"/>
 
 
 
@@ -39,7 +41,13 @@ https://azharkhan04.github.io/Vending_Machine_Simulation/
 
      <img src= "https://github.com/AzharKhan04/Vending_Machine_Simulation/blob/master/public/Extras/Screenshots/vending_machine_error.png"/>
 
+           <br/>
+
+
      <img src= "https://github.com/AzharKhan04/Vending_Machine_Simulation/blob/master/public/Extras/Screenshots/vending_machine_modal_phone.png"/>
+
+     <br/>
+
 
      <img src= "https://github.com/AzharKhan04/Vending_Machine_Simulation/blob/master/public/Extras/Screenshots/vending_machine_small.png"/>
 
