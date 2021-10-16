@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Vending_Machine_Simulation/static/css/main.6eabae41.chunk.css",
+    "main.js": "/Vending_Machine_Simulation/static/js/main.73a7f72f.chunk.js",
+    "main.js.map": "/Vending_Machine_Simulation/static/js/main.73a7f72f.chunk.js.map",
+    "runtime-main.js": "/Vending_Machine_Simulation/static/js/runtime-main.44f6cb9a.js",
+    "runtime-main.js.map": "/Vending_Machine_Simulation/static/js/runtime-main.44f6cb9a.js.map",
+    "static/js/2.3b07dd7f.chunk.js": "/Vending_Machine_Simulation/static/js/2.3b07dd7f.chunk.js",
+    "static/js/2.3b07dd7f.chunk.js.map": "/Vending_Machine_Simulation/static/js/2.3b07dd7f.chunk.js.map",
+    "static/js/3.eabd0123.chunk.js": "/Vending_Machine_Simulation/static/js/3.eabd0123.chunk.js",
+    "static/js/3.eabd0123.chunk.js.map": "/Vending_Machine_Simulation/static/js/3.eabd0123.chunk.js.map",
+    "index.html": "/Vending_Machine_Simulation/index.html",
+    "static/css/main.6eabae41.chunk.css.map": "/Vending_Machine_Simulation/static/css/main.6eabae41.chunk.css.map",
+    "static/js/2.3b07dd7f.chunk.js.LICENSE.txt": "/Vending_Machine_Simulation/static/js/2.3b07dd7f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44f6cb9a.js",
+    "static/js/2.3b07dd7f.chunk.js",
+    "static/css/main.6eabae41.chunk.css",
+    "static/js/main.73a7f72f.chunk.js"
+  ]
+}
