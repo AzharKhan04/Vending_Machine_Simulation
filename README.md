@@ -19,9 +19,9 @@
 
 # Build for Production 
 
-  To build for production
-
   npm run build 
 
 # Demo
+
+https://azharkhan04.github.io/Vending_Machine_Simulation/
 
