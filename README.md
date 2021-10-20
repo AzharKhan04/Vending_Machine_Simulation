@@ -1,4 +1,4 @@
-# Vending Mschine Simulation using React
+# Vending Machine Simulation using React
 
 # Setup
 
